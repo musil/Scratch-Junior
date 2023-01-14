@@ -1,4 +1,6 @@
 ## Scratch Jr. code
+If you don't have the ScratchJr app, you can download it from the app store on your device.
+
 
 [link][Scratch Jr. HOMEPAGE]
 
